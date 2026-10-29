@@ -3,3 +3,6 @@
 
 Новая ветка feature
 Бла бла бла
+
+Новая ветка feature
+hello world
